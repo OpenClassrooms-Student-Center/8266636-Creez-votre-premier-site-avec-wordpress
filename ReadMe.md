@@ -1,1 +1,0 @@
-# Banana Design - Projet fil rouge du cours "Créez votre premier site avec WordPress 6"

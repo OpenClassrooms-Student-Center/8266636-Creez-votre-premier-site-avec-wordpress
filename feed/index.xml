@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Agence WordPress Banana Design</title>
-	<atom:link href="http://localhost/Banana-Design-full-site/feed/?simply_static_page=1361" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/Banana-Design-full-site/feed/?simply_static_page=3786" rel="self" type="application/rss+xml" />
+	<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress</link>
 	<description>Création de sites WordPress de qualité</description>
-	<lastBuildDate>Fri, 15 Dec 2023 10:50:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Dec 2023 10:40:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/11/cropped-BANANADESIGN-FAVICON-32x32.png</url>
+	<url>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress/wp-content/uploads/2023/11/cropped-BANANADESIGN-FAVICON-32x32.png</url>
 	<title>Agence WordPress Banana Design</title>
-	<link></link>
+	<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
